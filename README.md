@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kayvon Martinez</h1>
 <h3 align="center">A Flutter/Dart developer and enthusiast</h3>
-
+<br>
 - 🌱 I’m currently learning **App Architectures, Data Structures & Algorithms, AWS, SQL**
 
 - 💬 Ask me about **Flutter, Python, React, Express, Dart**
