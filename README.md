@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kayvon Martinez</h1>
-<h3 align="center">An admirer of all things Flutter/Dart</h3>
+<h3 align="center">A Flutter/Dart developer and enthusiast</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kayvon-martinez" alt="kayvon-martinez" /></a> </p>
 
