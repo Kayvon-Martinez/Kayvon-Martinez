@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kayvon Martinez</h1>
 <h3 align="center">A Flutter/Dart developer and enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kayvon-martinez" alt="kayvon-martinez" /></a> </p>
-
 - 🌱 I’m currently learning **App Architectures, Data Structures & Algorithms, AWS, SQL**
 
 - 💬 Ask me about **Flutter, Python, React, Express, Dart**
